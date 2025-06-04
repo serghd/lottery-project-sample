@@ -14,4 +14,4 @@ Also, you can use the method 'givePrize()' to transfer prize manually (available
 Fro generating random values Chainlink VRF (Verifiable Random Function) is used.
 
 # Build & run
-user$ yarn install & yarn compile
+`user$ yarn install & yarn compile`
