@@ -12,3 +12,6 @@ After the 5th bet, the funds are randomly transferred to the winner.
 Also, you can use the method 'givePrize()' to transfer prize manually (available only for admin).
 
 Fro generating random values Chainlink VRF (Verifiable Random Function) is used.
+
+# Build & run
+user$ yarn install & yarn compile
